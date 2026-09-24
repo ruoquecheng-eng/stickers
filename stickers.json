@@ -138,8 +138,8 @@
         "收到好消息",
         "心情愉快"
       ],
-      "image": null,
-      "upload_status": "待审核授权后上传"
+      "image": "https://cdn.jsdelivr.net/gh/ruoquecheng-eng/stickers@main/images/009.jpeg",
+      "upload_status": "已上传"
     },
     {
       "id": "010",
