@@ -173,6 +173,53 @@
       ],
       "image": "https://cdn.jsdelivr.net/gh/ruoquecheng-eng/stickers@main/images/011.jpeg",
       "upload_status": "已上传"
+    },
+    {
+      "id": "012",
+      "meaning": "表达好感，表示亲密度上升",
+      "tags": [
+        "好感",
+        "亲密度上升",
+        "亲近",
+        "暧昧"
+      ],
+      "contexts": [
+        "关系变亲近",
+        "表达喜欢",
+        "互动升温"
+      ],
+      "image": "https://cdn.jsdelivr.net/gh/ruoquecheng-eng/stickers@main/images/012.jpeg",
+      "upload_status": "已上传"
+    },
+    {
+      "id": "013",
+      "meaning": "生气、不满",
+      "tags": [
+        "生气",
+        "不满",
+        "恼火"
+      ],
+      "contexts": [
+        "表达不满",
+        "遇到让人恼火的事"
+      ],
+      "image": "https://cdn.jsdelivr.net/gh/ruoquecheng-eng/stickers@main/images/013.jpeg",
+      "upload_status": "已上传"
+    },
+    {
+      "id": "014",
+      "meaning": "想到一个好主意",
+      "tags": [
+        "好主意",
+        "灵机一动",
+        "想到办法"
+      ],
+      "contexts": [
+        "突然想到解决办法",
+        "提出新点子"
+      ],
+      "image": "https://cdn.jsdelivr.net/gh/ruoquecheng-eng/stickers@main/images/014.jpeg",
+      "upload_status": "已上传"
     }
   ]
 }
