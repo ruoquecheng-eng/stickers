@@ -31,8 +31,8 @@
         "被催促",
         "压力过大"
       ],
-      "image": null,
-      "upload_status": "待上传"
+      "image": "https://cdn.jsdelivr.net/gh/ruoquecheng-eng/stickers@main/images/002.jpeg",
+      "upload_status": "已上传"
     },
     {
       "id": "003",
@@ -47,8 +47,8 @@
         "完成任务",
         "收到好消息"
       ],
-      "image": null,
-      "upload_status": "待上传"
+      "image": "https://cdn.jsdelivr.net/gh/ruoquecheng-eng/stickers@main/images/003.jpeg",
+      "upload_status": "已上传"
     },
     {
       "id": "004",
@@ -62,8 +62,8 @@
         "听到意外消息",
         "看到出乎意料的结果"
       ],
-      "image": null,
-      "upload_status": "待上传"
+      "image": "https://cdn.jsdelivr.net/gh/ruoquecheng-eng/stickers@main/images/004.jpeg",
+      "upload_status": "已上传"
     },
     {
       "id": "005",
@@ -77,8 +77,8 @@
         "遇到失落的事",
         "表达难过"
       ],
-      "image": null,
-      "upload_status": "待上传"
+      "image": "https://cdn.jsdelivr.net/gh/ruoquecheng-eng/stickers@main/images/005.jpeg",
+      "upload_status": "已上传"
     },
     {
       "id": "006",
@@ -92,8 +92,8 @@
         "开玩笑",
         "轻松互动"
       ],
-      "image": null,
-      "upload_status": "待上传"
+      "image": "https://cdn.jsdelivr.net/gh/ruoquecheng-eng/stickers@main/images/006.jpeg",
+      "upload_status": "已上传"
     },
     {
       "id": "007",
@@ -107,8 +107,8 @@
         "任务进行中",
         "等待安排或指示"
       ],
-      "image": null,
-      "upload_status": "待上传"
+      "image": "https://cdn.jsdelivr.net/gh/ruoquecheng-eng/stickers@main/images/007.jpeg",
+      "upload_status": "已上传"
     },
     {
       "id": "008",
@@ -122,8 +122,8 @@
         "表达喜欢",
         "友好亲密互动"
       ],
-      "image": null,
-      "upload_status": "待上传"
+      "image": "https://cdn.jsdelivr.net/gh/ruoquecheng-eng/stickers@main/images/008.jpeg",
+      "upload_status": "已上传"
     },
     {
       "id": "009",
@@ -139,7 +139,7 @@
         "心情愉快"
       ],
       "image": null,
-      "upload_status": "待上传"
+      "upload_status": "待审核授权后上传"
     },
     {
       "id": "010",
@@ -154,8 +154,8 @@
         "承认事情没做好",
         "用装傻回避不想做的事"
       ],
-      "image": null,
-      "upload_status": "待上传"
+      "image": "https://cdn.jsdelivr.net/gh/ruoquecheng-eng/stickers@main/images/010.jpeg",
+      "upload_status": "已上传"
     },
     {
       "id": "011",
@@ -171,8 +171,8 @@
         "听到厉害的事",
         "表达被震撼到"
       ],
-      "image": null,
-      "upload_status": "待上传"
+      "image": "https://cdn.jsdelivr.net/gh/ruoquecheng-eng/stickers@main/images/011.jpeg",
+      "upload_status": "已上传"
     }
   ]
 }
